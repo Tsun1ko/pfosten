@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "pfosten",
+	"version": "${version}",
+	"name": "Pfosten",
+	"description": "adds very cool and awesome log posts",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://github.com/Tsun1ko",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "ARR",
+	"icon": "assets/pfosten/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.tsuniko.pfosten.Pfosten"
+		],
+      "client": [
+        "net.tsuniko.pfosten.PfostenClient"
+      ]
+	},
+	"mixins": [
+		"pfosten.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.17.3",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
