@@ -3,7 +3,7 @@
 	"package": "net.tsuniko.pfosten.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"ExampleMixin"
+		"StrippablesMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

@@ -13,5 +13,6 @@ public class Pfosten implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		LOGGER.info("Initializing Pfosten");
+        ModBlocks.registerModBlocks();
 	}
 }
