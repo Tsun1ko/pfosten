@@ -2,6 +2,7 @@ package net.tsuniko.pfosten;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.BlockState;
+import net.minecraft.block.PillarBlock;
 import net.minecraft.block.ShapeContext;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.util.shape.VoxelShape;
@@ -9,7 +10,7 @@ import net.minecraft.util.shape.VoxelShapes;
 import net.minecraft.world.BlockView;
 
 
-public class PostBlock extends Block {
+public class PostBlock extends PillarBlock {
     public PostBlock(Settings settings) {
         super(settings);
     }
