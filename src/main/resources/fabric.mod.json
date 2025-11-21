@@ -20,6 +20,9 @@
 		],
       "client": [
         "net.tsuniko.pfosten.PfostenClient"
+      ],
+      "fabric-datagen": [
+        "net.tsuniko.pfosten.PfostenDataGenerator"
       ]
 	},
 	"mixins": [

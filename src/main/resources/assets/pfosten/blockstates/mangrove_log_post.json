@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "pfosten:block/mangrove_log_post"
+    }
+  }
+}

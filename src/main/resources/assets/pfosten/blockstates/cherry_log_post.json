@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "pfosten:block/cherry_log_post"
+    }
+  }
+}
