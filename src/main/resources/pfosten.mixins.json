@@ -2,9 +2,6 @@
 	"required": true,
 	"package": "net.tsuniko.pfosten.mixin",
 	"compatibilityLevel": "JAVA_21",
-	"mixins": [
-		"StrippablesMixin"
-	],
 	"injectors": {
 		"defaultRequire": 1
 	},
