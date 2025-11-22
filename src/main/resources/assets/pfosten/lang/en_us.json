@@ -1,4 +1,23 @@
 {
   "block.pfosten.oak_log_post": "Oak Log Post",
-  "block.pfosten.stripped_oak_log_post": "Stripped Oak Log Post"
+  "block.pfosten.acacia_log_post": "Acacia Log Post",
+  "block.pfosten.birch_log_post": "Birch Log Post",
+  "block.pfosten.cherry_log_post": "Cherry Log Post",
+  "block.pfosten.crimson_stem_post": "Crimson Stem Post",
+  "block.pfosten.dark_oak_log_post": "Dark Oak Log Post",
+  "block.pfosten.jungle_log_post": "Jungle Stripped Log Post",
+  "block.pfosten.mangrove_log_post": "Mangrove Log Post",
+  "block.pfosten.spruce_log_post": "Spruce Log Post",
+  "block.pfosten.warped_stem_post": "Warped Stem Post",
+
+  "block.pfosten.stripped_oak_log_post": "Stripped Oak Log Post",
+  "block.pfosten.stripped_acacia_log_post": "Stripped Acacia Log Post",
+  "block.pfosten.stripped_birch_log_post": "Stripped Birch Log Post",
+  "block.pfosten.stripped_cherry_log_post": "Stripped Cherry Log Post",
+  "block.pfosten.stripped_crimson_stem_post": "Stripped Crimson Stem Post",
+  "block.pfosten.stripped_dark_oak_log_post": "Stripped Dark Oak Log Post",
+  "block.pfosten.stripped_jungle_log_post": "Stripped Jungle Log Post",
+  "block.pfosten.stripped_mangrove_log_post": "Stripped Mangrove Log Post",
+  "block.pfosten.stripped_spruce_log_post": "Stripped Spruce Log Post",
+  "block.pfosten.stripped_warped_stem_post": "Stripped Warped Stem Post"
 }
